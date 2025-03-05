@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DunkBot O'yini</title>
+</head>
+<body>
+    <h1>Salom! Bu mening DunkBot o‘yinim</h1>
+    <p>O‘yin yuklanmoqda...</p>
+    <script src="game.js"></script>
+</body>
+</html>
